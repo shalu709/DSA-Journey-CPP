@@ -38,7 +38,7 @@ I chose C++ for DSA because:
 
 ## 🤝 Connect
 <p align="left">
-<a href="https://github.com/Mayra_Kurochi">
+<a href="https://github.com/shalu709">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"/>
 </a>
 </p>
